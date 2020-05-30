@@ -1,0 +1,17 @@
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\model\Product.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\web\MainController.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\Application.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\repository\UserRepository.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\service\ProductService.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\service\UserService.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\web\UserRegistrationController.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\model\Role.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\web\ProductController.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\web\dto\ProductDto.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\web\dto\UserRegistrationDto.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\config\SecurityConfiguration.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\model\User.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\constraint\FieldMatchValidator.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\service\UserServiceImpl.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\constraint\FieldMatch.java
+C:\Users\Sterben\Desktop\registration-login-springboot-security-thymeleaf-master\src\main\java\net\javaguides\springboot\springsecurity\repository\ProductRepository.java
