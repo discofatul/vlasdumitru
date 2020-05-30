@@ -96,10 +96,10 @@
 		</dependency>
 		
 		<dependency>
-			<groupId>org.postgresql</groupId>
-			<artifactId>postqresql</artifactId>
-			<version>9.4-1201-jdbc4</version>
-		</dependency>
+    <groupId>org.postgresql</groupId>
+    <artifactId>postgresql</artifactId>
+    <version>42.2.12</version>
+</dependency>
 		
 		
 	</dependencies>
